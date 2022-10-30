@@ -59,6 +59,6 @@ void main(string[] args) {
     if (execution_results.status != 1) {
         writeln("The saulification was finished without a problem!");
     } else {
-        writeln("There was a problem with the saulification, please check your file paths or create an issue on ");
+        writeln("There was a problem with the saulification, please check your file paths or create an issue on https://github.com/averyolive/addsaul");
     }
 }
